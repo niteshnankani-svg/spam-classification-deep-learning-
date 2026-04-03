@@ -2,6 +2,12 @@
 A simple interface will be added using Streamlit to test real-time spam predictions.
 
 
+## ▶️ How to Run
+
+```bash
+pip install -r requirements.txt
+python predict.py
+
 
 # 📩 SMS Spam Detection using Deep Learning (CNN vs LSTM vs BERT)
 
